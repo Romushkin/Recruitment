@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recruitment</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="age">Возраст</string>
+    <string name="role">Должность</string>
+    <string name="exit">Exit</string>
+    <string name="save">Сохранить</string>
+</resources>
